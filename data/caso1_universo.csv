@@ -1,0 +1,21 @@
+﻿dimension;categoria;pct_usuarios_gelt;pct_compradores_yogur_proteico
+generacion;Gen Z;30;26
+generacion;Millennials;44;42
+generacion;Gen X;20;25
+generacion;Boomers;6;7
+sexo;Mujer;63;58
+sexo;Hombre;37;42
+tamano_hogar;1;24;20
+tamano_hogar;2;31;30
+tamano_hogar;3;24;25
+tamano_hogar;4+;21;25
+enseña;Mercadona;26;30
+enseña;Carrefour;14;15
+enseña;Lidl;14;11
+enseña;Dia;10;8
+enseña;Alcampo;7;7
+enseña;Eroski;6;6
+enseña;Consum;6;6
+enseña;Aldi;6;6
+enseña;Ahorramas;4;4
+enseña;Otros;7;7

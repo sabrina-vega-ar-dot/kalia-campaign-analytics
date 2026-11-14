@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+*.pbix.autosave
+*.pbit.autosave
+*.bak
+data/privados/
+data/originales/

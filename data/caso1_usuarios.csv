@@ -1,0 +1,1801 @@
+﻿usuario;generacion;sexo;provincia;tamano_hogar
+K0001;Gen Z;Mujer;Madrid;2
+K0002;Gen Z;Mujer;Madrid;1
+K0003;Millennials;Mujer;Barcelona;3
+K0004;Millennials;Mujer;Madrid;1
+K0005;Gen Z;Mujer;Valencia;4+
+K0006;Millennials;Mujer;Alicante;4+
+K0007;Gen Z;Hombre;Barcelona;3
+K0008;Gen X;Hombre;Madrid;1
+K0009;Millennials;Hombre;Granada;2
+K0010;Gen Z;Hombre;Asturias;1
+K0011;Millennials;Hombre;Alicante;2
+K0012;Gen Z;Mujer;Valencia;3
+K0013;Millennials;Mujer;Madrid;2
+K0014;Gen X;Mujer;Barcelona;2
+K0015;Millennials;Hombre;Barcelona;3
+K0016;Millennials;Mujer;Sevilla;3
+K0017;Gen Z;Mujer;Madrid;2
+K0018;Millennials;Mujer;Murcia;1
+K0019;Millennials;Mujer;Barcelona;1
+K0020;Millennials;Hombre;Zaragoza;2
+K0021;Millennials;Hombre;A Coruña;1
+K0022;Millennials;Mujer;Málaga;3
+K0023;Millennials;Mujer;Madrid;2
+K0024;Millennials;Hombre;Madrid;2
+K0025;Millennials;Mujer;Bizkaia;2
+K0026;Millennials;Hombre;Sevilla;2
+K0027;Millennials;Hombre;Valencia;1
+K0028;Millennials;Mujer;Baleares;2
+K0029;Millennials;Mujer;Madrid;2
+K0030;Gen Z;Hombre;Barcelona;3
+K0031;Gen X;Mujer;Madrid;1
+K0032;Millennials;Hombre;Granada;2
+K0033;Gen Z;Mujer;Madrid;2
+K0034;Millennials;Hombre;Zaragoza;3
+K0035;Gen Z;Mujer;Cádiz;1
+K0036;Millennials;Mujer;Barcelona;2
+K0037;Millennials;Mujer;Málaga;4+
+K0038;Gen Z;Mujer;Valencia;2
+K0039;Gen Z;Hombre;Alicante;1
+K0040;Millennials;Mujer;Madrid;3
+K0041;Millennials;Mujer;Sevilla;1
+K0042;Gen X;Mujer;Granada;1
+K0043;Millennials;Mujer;Málaga;1
+K0044;Millennials;Mujer;Alicante;4+
+K0045;Millennials;Mujer;Barcelona;1
+K0046;Millennials;Hombre;Alicante;1
+K0047;Gen X;Mujer;Barcelona;3
+K0048;Millennials;Hombre;Barcelona;1
+K0049;Gen Z;Hombre;Madrid;3
+K0050;Millennials;Mujer;Valencia;1
+K0051;Boomers;Mujer;Valencia;2
+K0052;Gen Z;Hombre;Asturias;1
+K0053;Gen X;Mujer;Valencia;3
+K0054;Gen X;Hombre;Madrid;2
+K0055;Gen Z;Mujer;Madrid;2
+K0056;Gen Z;Mujer;Alicante;1
+K0057;Gen Z;Mujer;Alicante;3
+K0058;Millennials;Mujer;Murcia;1
+K0059;Gen X;Hombre;Madrid;2
+K0060;Millennials;Hombre;Madrid;2
+K0061;Millennials;Mujer;Málaga;2
+K0062;Gen X;Mujer;Alicante;3
+K0063;Gen Z;Hombre;Valencia;2
+K0064;Millennials;Hombre;Madrid;2
+K0065;Millennials;Hombre;Las Palmas;2
+K0066;Millennials;Mujer;Madrid;2
+K0067;Gen Z;Mujer;Sevilla;1
+K0068;Gen Z;Mujer;A Coruña;3
+K0069;Gen Z;Mujer;Zaragoza;1
+K0070;Gen Z;Mujer;Madrid;1
+K0071;Gen X;Mujer;Asturias;2
+K0072;Millennials;Hombre;Málaga;4+
+K0073;Gen Z;Mujer;Málaga;3
+K0074;Gen X;Hombre;Madrid;4+
+K0075;Millennials;Mujer;Las Palmas;3
+K0076;Gen Z;Hombre;Madrid;3
+K0077;Gen Z;Mujer;Barcelona;1
+K0078;Gen Z;Mujer;Valencia;1
+K0079;Millennials;Hombre;Barcelona;2
+K0080;Gen X;Mujer;Madrid;2
+K0081;Millennials;Mujer;Barcelona;2
+K0082;Gen X;Hombre;Baleares;3
+K0083;Gen Z;Mujer;Madrid;3
+K0084;Boomers;Mujer;Málaga;1
+K0085;Millennials;Mujer;Alicante;1
+K0086;Boomers;Mujer;Asturias;2
+K0087;Gen Z;Mujer;Málaga;3
+K0088;Gen X;Hombre;Barcelona;1
+K0089;Millennials;Mujer;Madrid;2
+K0090;Millennials;Hombre;Sevilla;1
+K0091;Gen X;Hombre;Valencia;1
+K0092;Gen Z;Hombre;Madrid;2
+K0093;Gen Z;Mujer;Murcia;2
+K0094;Millennials;Hombre;Alicante;1
+K0095;Millennials;Hombre;Barcelona;4+
+K0096;Millennials;Mujer;Madrid;1
+K0097;Gen Z;Mujer;Madrid;1
+K0098;Millennials;Hombre;Valladolid;3
+K0099;Gen Z;Mujer;Alicante;1
+K0100;Millennials;Mujer;Sevilla;3
+K0101;Millennials;Mujer;Madrid;2
+K0102;Gen X;Mujer;Las Palmas;1
+K0103;Millennials;Mujer;Granada;3
+K0104;Millennials;Hombre;Madrid;2
+K0105;Millennials;Mujer;Valencia;2
+K0106;Millennials;Mujer;Valencia;1
+K0107;Gen Z;Hombre;Madrid;4+
+K0108;Gen Z;Hombre;Zaragoza;2
+K0109;Millennials;Mujer;Barcelona;3
+K0110;Gen Z;Hombre;Madrid;1
+K0111;Millennials;Mujer;Valladolid;2
+K0112;Gen X;Mujer;A Coruña;2
+K0113;Millennials;Mujer;Barcelona;2
+K0114;Millennials;Hombre;Las Palmas;2
+K0115;Millennials;Mujer;Valencia;1
+K0116;Millennials;Mujer;Valladolid;2
+K0117;Gen Z;Mujer;Bizkaia;1
+K0118;Millennials;Hombre;Bizkaia;2
+K0119;Millennials;Hombre;Las Palmas;1
+K0120;Gen Z;Mujer;Valencia;2
+K0121;Millennials;Mujer;Barcelona;1
+K0122;Millennials;Mujer;A Coruña;4+
+K0123;Gen Z;Mujer;Zaragoza;2
+K0124;Gen Z;Mujer;Madrid;4+
+K0125;Millennials;Mujer;Sevilla;1
+K0126;Millennials;Mujer;Asturias;1
+K0127;Millennials;Mujer;Alicante;1
+K0128;Gen Z;Hombre;Barcelona;2
+K0129;Millennials;Mujer;Málaga;2
+K0130;Millennials;Mujer;Málaga;2
+K0131;Millennials;Mujer;Zaragoza;1
+K0132;Gen Z;Mujer;Madrid;2
+K0133;Millennials;Hombre;Alicante;1
+K0134;Millennials;Hombre;Murcia;3
+K0135;Gen X;Mujer;Barcelona;1
+K0136;Millennials;Mujer;Zaragoza;2
+K0137;Millennials;Mujer;Málaga;2
+K0138;Gen Z;Mujer;Málaga;1
+K0139;Gen Z;Mujer;Alicante;3
+K0140;Millennials;Mujer;Sevilla;2
+K0141;Gen Z;Hombre;Murcia;1
+K0142;Millennials;Mujer;Madrid;4+
+K0143;Gen Z;Mujer;Barcelona;3
+K0144;Gen Z;Mujer;Sevilla;1
+K0145;Gen X;Mujer;Málaga;3
+K0146;Millennials;Mujer;Valencia;4+
+K0147;Millennials;Mujer;Barcelona;4+
+K0148;Gen Z;Mujer;Barcelona;4+
+K0149;Gen Z;Hombre;Alicante;3
+K0150;Millennials;Mujer;Madrid;1
+K0151;Millennials;Mujer;Madrid;2
+K0152;Millennials;Mujer;Barcelona;4+
+K0153;Boomers;Hombre;Cádiz;2
+K0154;Gen Z;Mujer;A Coruña;2
+K0155;Gen Z;Mujer;Alicante;1
+K0156;Gen Z;Mujer;Málaga;3
+K0157;Millennials;Mujer;Valencia;3
+K0158;Gen Z;Hombre;Valencia;2
+K0159;Gen Z;Mujer;Madrid;3
+K0160;Millennials;Hombre;Barcelona;3
+K0161;Millennials;Hombre;Valencia;4+
+K0162;Gen Z;Mujer;Zaragoza;4+
+K0163;Gen X;Mujer;Alicante;2
+K0164;Millennials;Mujer;A Coruña;2
+K0165;Millennials;Mujer;Málaga;2
+K0166;Millennials;Mujer;Valencia;1
+K0167;Millennials;Mujer;Valencia;2
+K0168;Millennials;Mujer;Madrid;2
+K0169;Gen Z;Mujer;Valencia;4+
+K0170;Millennials;Mujer;Madrid;1
+K0171;Gen Z;Mujer;Murcia;4+
+K0172;Gen Z;Mujer;Zaragoza;1
+K0173;Gen Z;Mujer;Las Palmas;2
+K0174;Gen Z;Hombre;Madrid;3
+K0175;Millennials;Mujer;Barcelona;2
+K0176;Gen Z;Mujer;Madrid;1
+K0177;Gen X;Mujer;Valencia;4+
+K0178;Gen X;Mujer;Las Palmas;1
+K0179;Boomers;Mujer;Madrid;2
+K0180;Gen Z;Hombre;Madrid;1
+K0181;Millennials;Mujer;Barcelona;2
+K0182;Millennials;Hombre;Barcelona;1
+K0183;Gen X;Mujer;Madrid;2
+K0184;Gen Z;Mujer;Madrid;4+
+K0185;Millennials;Mujer;Barcelona;2
+K0186;Millennials;Hombre;Madrid;2
+K0187;Gen X;Mujer;Baleares;2
+K0188;Millennials;Mujer;Madrid;3
+K0189;Millennials;Mujer;Las Palmas;4+
+K0190;Millennials;Mujer;Barcelona;3
+K0191;Millennials;Hombre;Barcelona;2
+K0192;Millennials;Mujer;Madrid;2
+K0193;Millennials;Mujer;Alicante;2
+K0194;Gen X;Mujer;Granada;1
+K0195;Millennials;Hombre;Alicante;3
+K0196;Millennials;Mujer;Madrid;3
+K0197;Millennials;Hombre;Navarra;2
+K0198;Gen Z;Mujer;Alicante;1
+K0199;Gen Z;Hombre;Madrid;2
+K0200;Millennials;Hombre;Madrid;4+
+K0201;Gen X;Hombre;Barcelona;4+
+K0202;Gen Z;Mujer;Barcelona;1
+K0203;Millennials;Hombre;Málaga;1
+K0204;Boomers;Mujer;Bizkaia;3
+K0205;Millennials;Hombre;Madrid;2
+K0206;Gen Z;Mujer;Valencia;4+
+K0207;Millennials;Mujer;Sevilla;4+
+K0208;Boomers;Mujer;Madrid;3
+K0209;Gen X;Hombre;Madrid;2
+K0210;Gen Z;Mujer;Barcelona;3
+K0211;Gen Z;Mujer;Valencia;1
+K0212;Millennials;Hombre;Valencia;2
+K0213;Millennials;Hombre;Baleares;1
+K0214;Millennials;Mujer;Asturias;1
+K0215;Gen X;Mujer;Sevilla;2
+K0216;Gen Z;Hombre;Zaragoza;4+
+K0217;Millennials;Mujer;Sevilla;2
+K0218;Millennials;Mujer;Barcelona;2
+K0219;Millennials;Mujer;Valencia;1
+K0220;Millennials;Hombre;Asturias;1
+K0221;Millennials;Hombre;Madrid;2
+K0222;Gen Z;Mujer;Bizkaia;1
+K0223;Millennials;Hombre;Madrid;1
+K0224;Gen Z;Mujer;A Coruña;3
+K0225;Millennials;Mujer;Málaga;1
+K0226;Gen X;Mujer;Granada;2
+K0227;Gen Z;Mujer;Madrid;2
+K0228;Millennials;Mujer;Murcia;4+
+K0229;Millennials;Mujer;Madrid;2
+K0230;Millennials;Hombre;Madrid;3
+K0231;Millennials;Mujer;Valencia;2
+K0232;Millennials;Mujer;Valencia;3
+K0233;Millennials;Mujer;Madrid;1
+K0234;Gen Z;Mujer;Baleares;1
+K0235;Gen X;Mujer;Sevilla;4+
+K0236;Gen Z;Mujer;Madrid;1
+K0237;Boomers;Mujer;Barcelona;4+
+K0238;Millennials;Mujer;Madrid;4+
+K0239;Millennials;Mujer;Alicante;1
+K0240;Gen X;Mujer;Málaga;1
+K0241;Boomers;Mujer;Baleares;2
+K0242;Gen Z;Hombre;Alicante;4+
+K0243;Boomers;Mujer;Madrid;3
+K0244;Gen Z;Mujer;Barcelona;3
+K0245;Gen Z;Mujer;Bizkaia;3
+K0246;Gen Z;Mujer;Sevilla;3
+K0247;Gen Z;Hombre;Valencia;2
+K0248;Millennials;Hombre;A Coruña;2
+K0249;Millennials;Mujer;Barcelona;1
+K0250;Millennials;Mujer;Alicante;4+
+K0251;Gen Z;Mujer;Barcelona;2
+K0252;Millennials;Mujer;Barcelona;2
+K0253;Millennials;Hombre;Barcelona;1
+K0254;Gen Z;Mujer;Sevilla;1
+K0255;Millennials;Hombre;Barcelona;1
+K0256;Millennials;Mujer;Sevilla;2
+K0257;Gen Z;Mujer;Madrid;3
+K0258;Gen X;Hombre;Sevilla;1
+K0259;Gen X;Hombre;Barcelona;3
+K0260;Gen Z;Hombre;Sevilla;2
+K0261;Gen Z;Mujer;Murcia;1
+K0262;Gen Z;Hombre;Málaga;3
+K0263;Boomers;Mujer;Barcelona;2
+K0264;Millennials;Mujer;Las Palmas;2
+K0265;Gen Z;Hombre;Madrid;4+
+K0266;Millennials;Hombre;Barcelona;2
+K0267;Millennials;Mujer;Murcia;2
+K0268;Gen Z;Mujer;Madrid;3
+K0269;Gen Z;Hombre;Madrid;2
+K0270;Gen Z;Mujer;Baleares;4+
+K0271;Gen Z;Mujer;Barcelona;4+
+K0272;Gen Z;Mujer;Valladolid;1
+K0273;Millennials;Mujer;Málaga;2
+K0274;Millennials;Mujer;Alicante;1
+K0275;Gen Z;Hombre;Barcelona;2
+K0276;Gen Z;Hombre;Barcelona;3
+K0277;Gen X;Mujer;Sevilla;4+
+K0278;Gen Z;Mujer;Málaga;1
+K0279;Gen Z;Hombre;Madrid;3
+K0280;Millennials;Mujer;Madrid;2
+K0281;Gen Z;Mujer;Barcelona;2
+K0282;Gen Z;Mujer;Alicante;2
+K0283;Gen Z;Mujer;Baleares;2
+K0284;Gen Z;Mujer;Madrid;1
+K0285;Gen Z;Mujer;Valencia;2
+K0286;Gen Z;Mujer;Zaragoza;4+
+K0287;Millennials;Mujer;Valladolid;1
+K0288;Millennials;Hombre;Bizkaia;2
+K0289;Gen X;Mujer;Madrid;2
+K0290;Gen Z;Mujer;Barcelona;2
+K0291;Millennials;Mujer;Madrid;1
+K0292;Gen X;Hombre;Málaga;1
+K0293;Gen Z;Mujer;Valencia;4+
+K0294;Gen X;Hombre;Barcelona;2
+K0295;Gen Z;Mujer;Las Palmas;3
+K0296;Gen Z;Hombre;Barcelona;2
+K0297;Gen Z;Mujer;Madrid;3
+K0298;Gen Z;Hombre;Murcia;2
+K0299;Millennials;Mujer;Barcelona;2
+K0300;Millennials;Mujer;Asturias;2
+K0301;Gen Z;Hombre;Valladolid;1
+K0302;Gen Z;Mujer;Bizkaia;1
+K0303;Gen Z;Mujer;Zaragoza;1
+K0304;Millennials;Mujer;Barcelona;4+
+K0305;Gen X;Mujer;Valencia;2
+K0306;Millennials;Mujer;Valencia;2
+K0307;Gen Z;Mujer;Valencia;2
+K0308;Millennials;Mujer;Barcelona;2
+K0309;Gen Z;Hombre;Valladolid;1
+K0310;Gen X;Mujer;Valladolid;3
+K0311;Gen X;Mujer;Cádiz;2
+K0312;Gen Z;Mujer;Alicante;2
+K0313;Millennials;Mujer;Sevilla;3
+K0314;Gen Z;Hombre;Murcia;3
+K0315;Millennials;Mujer;Zaragoza;2
+K0316;Gen X;Hombre;Madrid;1
+K0317;Gen Z;Mujer;Alicante;2
+K0318;Millennials;Hombre;Alicante;1
+K0319;Gen Z;Mujer;Zaragoza;3
+K0320;Gen Z;Hombre;Alicante;2
+K0321;Gen X;Hombre;Zaragoza;2
+K0322;Millennials;Hombre;Málaga;1
+K0323;Millennials;Hombre;Alicante;4+
+K0324;Gen X;Mujer;A Coruña;2
+K0325;Millennials;Mujer;Murcia;2
+K0326;Gen Z;Hombre;Valencia;2
+K0327;Gen Z;Mujer;Zaragoza;3
+K0328;Gen Z;Mujer;A Coruña;1
+K0329;Millennials;Mujer;Granada;2
+K0330;Gen Z;Hombre;Sevilla;3
+K0331;Millennials;Mujer;A Coruña;4+
+K0332;Gen Z;Hombre;Madrid;2
+K0333;Gen Z;Hombre;Madrid;1
+K0334;Gen X;Hombre;Barcelona;3
+K0335;Millennials;Mujer;Barcelona;2
+K0336;Gen X;Mujer;Valladolid;2
+K0337;Millennials;Mujer;Navarra;2
+K0338;Gen Z;Mujer;A Coruña;1
+K0339;Millennials;Hombre;Las Palmas;1
+K0340;Gen Z;Mujer;Madrid;3
+K0341;Millennials;Hombre;Madrid;4+
+K0342;Gen Z;Mujer;Madrid;4+
+K0343;Millennials;Mujer;Málaga;2
+K0344;Millennials;Mujer;Valencia;2
+K0345;Gen Z;Hombre;Valencia;1
+K0346;Millennials;Mujer;Asturias;1
+K0347;Millennials;Hombre;Asturias;3
+K0348;Millennials;Hombre;Murcia;2
+K0349;Gen Z;Mujer;Barcelona;1
+K0350;Millennials;Mujer;Madrid;2
+K0351;Gen Z;Mujer;Barcelona;1
+K0352;Boomers;Hombre;Valencia;3
+K0353;Millennials;Mujer;Asturias;1
+K0354;Millennials;Hombre;Barcelona;4+
+K0355;Gen Z;Mujer;Barcelona;1
+K0356;Gen X;Mujer;Baleares;1
+K0357;Gen X;Hombre;Barcelona;1
+K0358;Millennials;Mujer;Baleares;3
+K0359;Gen Z;Hombre;Madrid;1
+K0360;Gen Z;Mujer;Barcelona;3
+K0361;Millennials;Mujer;Madrid;2
+K0362;Millennials;Mujer;Granada;2
+K0363;Gen X;Mujer;Madrid;1
+K0364;Millennials;Mujer;Navarra;2
+K0365;Gen Z;Mujer;Murcia;2
+K0366;Millennials;Mujer;Granada;3
+K0367;Gen X;Hombre;Barcelona;3
+K0368;Gen X;Mujer;Madrid;1
+K0369;Gen Z;Mujer;Baleares;1
+K0370;Gen X;Mujer;Murcia;2
+K0371;Gen Z;Mujer;Barcelona;2
+K0372;Gen Z;Hombre;Barcelona;4+
+K0373;Gen X;Mujer;Sevilla;1
+K0374;Gen Z;Mujer;Las Palmas;2
+K0375;Gen Z;Hombre;Barcelona;2
+K0376;Millennials;Hombre;Baleares;1
+K0377;Gen Z;Mujer;Murcia;3
+K0378;Millennials;Mujer;Madrid;2
+K0379;Millennials;Mujer;Asturias;2
+K0380;Millennials;Hombre;Alicante;1
+K0381;Gen Z;Mujer;Málaga;4+
+K0382;Gen X;Mujer;Madrid;2
+K0383;Millennials;Mujer;Valladolid;2
+K0384;Gen Z;Hombre;A Coruña;3
+K0385;Boomers;Mujer;Sevilla;2
+K0386;Gen Z;Mujer;Barcelona;3
+K0387;Gen Z;Mujer;Sevilla;2
+K0388;Millennials;Mujer;Málaga;3
+K0389;Millennials;Hombre;Madrid;2
+K0390;Gen Z;Hombre;Las Palmas;1
+K0391;Gen X;Hombre;Madrid;1
+K0392;Gen Z;Hombre;Valencia;2
+K0393;Millennials;Hombre;Madrid;2
+K0394;Millennials;Hombre;Baleares;3
+K0395;Millennials;Mujer;Madrid;3
+K0396;Gen Z;Hombre;Barcelona;1
+K0397;Millennials;Mujer;Bizkaia;2
+K0398;Gen Z;Mujer;Alicante;1
+K0399;Gen Z;Hombre;Zaragoza;2
+K0400;Millennials;Hombre;Barcelona;4+
+K0401;Millennials;Hombre;Alicante;3
+K0402;Millennials;Mujer;Barcelona;4+
+K0403;Gen Z;Hombre;Alicante;1
+K0404;Millennials;Mujer;Barcelona;1
+K0405;Millennials;Mujer;Sevilla;3
+K0406;Millennials;Hombre;Valencia;1
+K0407;Millennials;Mujer;Madrid;1
+K0408;Millennials;Mujer;Valladolid;1
+K0409;Millennials;Mujer;Barcelona;1
+K0410;Gen Z;Mujer;Granada;2
+K0411;Boomers;Mujer;Bizkaia;4+
+K0412;Gen Z;Mujer;Madrid;2
+K0413;Millennials;Mujer;Barcelona;2
+K0414;Gen Z;Mujer;Navarra;1
+K0415;Millennials;Hombre;Alicante;1
+K0416;Millennials;Hombre;Málaga;1
+K0417;Millennials;Mujer;Barcelona;2
+K0418;Millennials;Mujer;Madrid;3
+K0419;Gen X;Mujer;Madrid;2
+K0420;Millennials;Mujer;Madrid;2
+K0421;Millennials;Mujer;Baleares;1
+K0422;Millennials;Mujer;Barcelona;3
+K0423;Gen Z;Mujer;Valencia;2
+K0424;Millennials;Hombre;Barcelona;4+
+K0425;Millennials;Hombre;Valencia;3
+K0426;Millennials;Hombre;A Coruña;2
+K0427;Millennials;Mujer;Murcia;3
+K0428;Millennials;Mujer;Madrid;2
+K0429;Millennials;Mujer;Navarra;1
+K0430;Gen Z;Mujer;Cádiz;2
+K0431;Gen Z;Mujer;Sevilla;2
+K0432;Millennials;Mujer;Navarra;4+
+K0433;Gen Z;Hombre;Asturias;2
+K0434;Millennials;Hombre;Sevilla;1
+K0435;Gen X;Hombre;Las Palmas;1
+K0436;Millennials;Mujer;Madrid;2
+K0437;Gen X;Mujer;Barcelona;1
+K0438;Millennials;Mujer;Madrid;3
+K0439;Boomers;Mujer;Bizkaia;4+
+K0440;Millennials;Mujer;Barcelona;1
+K0441;Gen Z;Mujer;Alicante;2
+K0442;Millennials;Mujer;Madrid;2
+K0443;Millennials;Hombre;Las Palmas;1
+K0444;Millennials;Mujer;Barcelona;1
+K0445;Millennials;Hombre;Bizkaia;1
+K0446;Gen Z;Mujer;Valencia;3
+K0447;Millennials;Hombre;Barcelona;1
+K0448;Gen Z;Mujer;Zaragoza;2
+K0449;Millennials;Mujer;Madrid;1
+K0450;Millennials;Mujer;Sevilla;1
+K0451;Gen X;Mujer;Murcia;2
+K0452;Gen Z;Mujer;Las Palmas;2
+K0453;Millennials;Hombre;Málaga;4+
+K0454;Gen Z;Hombre;Madrid;2
+K0455;Millennials;Hombre;Barcelona;1
+K0456;Gen Z;Mujer;Málaga;2
+K0457;Gen Z;Hombre;Zaragoza;1
+K0458;Gen Z;Hombre;Valencia;3
+K0459;Gen Z;Hombre;Valencia;2
+K0460;Gen X;Mujer;Valencia;2
+K0461;Millennials;Mujer;Asturias;2
+K0462;Gen X;Mujer;A Coruña;3
+K0463;Gen Z;Mujer;Alicante;2
+K0464;Millennials;Mujer;Madrid;1
+K0465;Gen Z;Mujer;Barcelona;2
+K0466;Millennials;Mujer;Valencia;4+
+K0467;Gen Z;Mujer;Granada;3
+K0468;Millennials;Mujer;Valencia;4+
+K0469;Millennials;Mujer;Madrid;3
+K0470;Gen Z;Mujer;Murcia;4+
+K0471;Gen Z;Mujer;Valencia;3
+K0472;Millennials;Mujer;Barcelona;1
+K0473;Millennials;Hombre;Las Palmas;1
+K0474;Millennials;Mujer;Granada;1
+K0475;Gen Z;Hombre;Sevilla;2
+K0476;Gen X;Mujer;Valencia;3
+K0477;Gen Z;Mujer;Sevilla;2
+K0478;Millennials;Mujer;Madrid;2
+K0479;Boomers;Mujer;Bizkaia;2
+K0480;Gen Z;Mujer;Valencia;4+
+K0481;Gen Z;Mujer;Madrid;4+
+K0482;Gen Z;Mujer;Zaragoza;2
+K0483;Gen Z;Mujer;Barcelona;2
+K0484;Millennials;Mujer;Bizkaia;2
+K0485;Gen X;Mujer;Barcelona;2
+K0486;Gen X;Hombre;Barcelona;2
+K0487;Gen Z;Mujer;Barcelona;2
+K0488;Gen Z;Mujer;Murcia;3
+K0489;Gen Z;Mujer;Las Palmas;2
+K0490;Gen Z;Hombre;Granada;3
+K0491;Gen Z;Mujer;Barcelona;2
+K0492;Gen Z;Mujer;Las Palmas;3
+K0493;Gen Z;Hombre;Valencia;4+
+K0494;Gen Z;Hombre;Bizkaia;1
+K0495;Millennials;Mujer;Madrid;2
+K0496;Millennials;Mujer;Valencia;4+
+K0497;Gen X;Mujer;Madrid;2
+K0498;Gen X;Mujer;Navarra;2
+K0499;Millennials;Hombre;Cádiz;1
+K0500;Gen X;Mujer;Zaragoza;4+
+K0501;Millennials;Hombre;Bizkaia;4+
+K0502;Gen Z;Mujer;Madrid;1
+K0503;Gen Z;Mujer;Barcelona;2
+K0504;Millennials;Mujer;Baleares;1
+K0505;Millennials;Mujer;Murcia;1
+K0506;Millennials;Hombre;Madrid;2
+K0507;Millennials;Hombre;Sevilla;1
+K0508;Gen Z;Mujer;Madrid;1
+K0509;Gen X;Mujer;Barcelona;1
+K0510;Gen Z;Hombre;Madrid;2
+K0511;Millennials;Mujer;Madrid;2
+K0512;Gen Z;Mujer;Madrid;2
+K0513;Millennials;Mujer;Barcelona;4+
+K0514;Gen Z;Mujer;Madrid;1
+K0515;Gen X;Mujer;Madrid;1
+K0516;Millennials;Hombre;Madrid;2
+K0517;Millennials;Mujer;Madrid;1
+K0518;Gen Z;Mujer;Madrid;3
+K0519;Millennials;Hombre;Madrid;2
+K0520;Gen Z;Mujer;Madrid;1
+K0521;Gen Z;Mujer;Madrid;3
+K0522;Boomers;Hombre;Madrid;3
+K0523;Gen Z;Mujer;Valencia;3
+K0524;Gen Z;Hombre;Barcelona;1
+K0525;Millennials;Hombre;Madrid;4+
+K0526;Gen Z;Hombre;Barcelona;2
+K0527;Millennials;Mujer;Baleares;2
+K0528;Millennials;Hombre;Barcelona;1
+K0529;Millennials;Hombre;Barcelona;1
+K0530;Millennials;Mujer;Madrid;1
+K0531;Millennials;Mujer;Madrid;1
+K0532;Millennials;Mujer;Madrid;2
+K0533;Gen Z;Mujer;Alicante;2
+K0534;Millennials;Hombre;Barcelona;1
+K0535;Gen X;Mujer;Valencia;2
+K0536;Millennials;Mujer;Barcelona;2
+K0537;Gen Z;Mujer;Madrid;3
+K0538;Millennials;Mujer;Barcelona;2
+K0539;Millennials;Mujer;A Coruña;1
+K0540;Millennials;Mujer;Valencia;2
+K0541;Gen Z;Mujer;Sevilla;4+
+K0542;Gen Z;Mujer;Zaragoza;2
+K0543;Millennials;Hombre;A Coruña;2
+K0544;Gen X;Mujer;Barcelona;2
+K0545;Millennials;Mujer;Zaragoza;4+
+K0546;Millennials;Mujer;Zaragoza;2
+K0547;Gen Z;Mujer;Las Palmas;2
+K0548;Millennials;Mujer;Murcia;1
+K0549;Gen Z;Mujer;Madrid;3
+K0550;Millennials;Mujer;Asturias;1
+K0551;Gen X;Mujer;Barcelona;1
+K0552;Millennials;Mujer;Navarra;2
+K0553;Gen Z;Hombre;Barcelona;3
+K0554;Millennials;Mujer;Madrid;2
+K0555;Millennials;Hombre;Madrid;1
+K0556;Millennials;Mujer;Asturias;2
+K0557;Millennials;Hombre;Murcia;4+
+K0558;Gen X;Hombre;Valencia;1
+K0559;Millennials;Hombre;Málaga;2
+K0560;Millennials;Hombre;A Coruña;1
+K0561;Gen Z;Mujer;Sevilla;3
+K0562;Gen Z;Mujer;Valladolid;1
+K0563;Gen X;Mujer;Madrid;2
+K0564;Millennials;Mujer;Zaragoza;1
+K0565;Millennials;Hombre;Barcelona;2
+K0566;Millennials;Hombre;Cádiz;2
+K0567;Gen Z;Mujer;Zaragoza;3
+K0568;Gen Z;Mujer;Baleares;2
+K0569;Gen Z;Hombre;Barcelona;1
+K0570;Millennials;Mujer;Bizkaia;3
+K0571;Millennials;Mujer;Valencia;1
+K0572;Gen Z;Hombre;Baleares;3
+K0573;Millennials;Hombre;Alicante;1
+K0574;Millennials;Mujer;Málaga;1
+K0575;Millennials;Hombre;A Coruña;1
+K0576;Millennials;Hombre;Asturias;4+
+K0577;Gen X;Mujer;Sevilla;3
+K0578;Gen Z;Mujer;Valladolid;1
+K0579;Millennials;Hombre;Barcelona;2
+K0580;Gen Z;Mujer;Barcelona;4+
+K0581;Gen X;Mujer;Murcia;1
+K0582;Gen Z;Hombre;Barcelona;1
+K0583;Millennials;Mujer;Madrid;2
+K0584;Millennials;Hombre;Barcelona;1
+K0585;Gen X;Hombre;Madrid;4+
+K0586;Millennials;Mujer;Valencia;1
+K0587;Gen Z;Hombre;Valencia;3
+K0588;Gen Z;Hombre;Madrid;3
+K0589;Gen Z;Mujer;Madrid;1
+K0590;Gen Z;Mujer;Valencia;2
+K0591;Gen X;Hombre;Madrid;4+
+K0592;Millennials;Mujer;Barcelona;2
+K0593;Millennials;Mujer;Asturias;2
+K0594;Millennials;Mujer;Madrid;2
+K0595;Millennials;Mujer;Zaragoza;2
+K0596;Millennials;Hombre;Granada;1
+K0597;Gen Z;Mujer;Las Palmas;2
+K0598;Boomers;Hombre;Cádiz;2
+K0599;Millennials;Hombre;Asturias;1
+K0600;Gen X;Hombre;Barcelona;1
+K0601;Millennials;Mujer;Madrid;2
+K0602;Gen Z;Mujer;Las Palmas;2
+K0603;Millennials;Hombre;Sevilla;1
+K0604;Gen Z;Mujer;Málaga;1
+K0605;Millennials;Mujer;Baleares;4+
+K0606;Millennials;Mujer;Barcelona;2
+K0607;Gen X;Mujer;Málaga;1
+K0608;Gen Z;Mujer;Barcelona;4+
+K0609;Millennials;Hombre;Barcelona;1
+K0610;Gen X;Mujer;Navarra;2
+K0611;Millennials;Mujer;Valencia;3
+K0612;Gen Z;Hombre;Valencia;2
+K0613;Millennials;Hombre;Madrid;4+
+K0614;Gen Z;Mujer;Baleares;1
+K0615;Gen X;Mujer;Las Palmas;2
+K0616;Gen Z;Mujer;Valladolid;2
+K0617;Gen Z;Mujer;Valladolid;3
+K0618;Gen Z;Mujer;Valladolid;1
+K0619;Gen Z;Mujer;Barcelona;2
+K0620;Millennials;Mujer;Sevilla;2
+K0621;Millennials;Hombre;Asturias;1
+K0622;Gen Z;Mujer;Sevilla;2
+K0623;Millennials;Mujer;Granada;2
+K0624;Gen Z;Hombre;Bizkaia;2
+K0625;Gen X;Hombre;Madrid;2
+K0626;Millennials;Mujer;Madrid;1
+K0627;Gen X;Hombre;Cádiz;4+
+K0628;Gen X;Mujer;Madrid;2
+K0629;Millennials;Hombre;Valencia;3
+K0630;Gen X;Mujer;Sevilla;1
+K0631;Millennials;Mujer;Granada;2
+K0632;Millennials;Mujer;Málaga;3
+K0633;Millennials;Mujer;Madrid;1
+K0634;Gen X;Mujer;Madrid;1
+K0635;Millennials;Mujer;Sevilla;2
+K0636;Gen Z;Mujer;Baleares;4+
+K0637;Gen Z;Mujer;Alicante;2
+K0638;Gen Z;Mujer;Madrid;2
+K0639;Gen Z;Mujer;Barcelona;2
+K0640;Gen Z;Hombre;Zaragoza;1
+K0641;Boomers;Hombre;Murcia;4+
+K0642;Gen Z;Mujer;Barcelona;2
+K0643;Gen Z;Mujer;Madrid;2
+K0644;Gen Z;Mujer;Barcelona;4+
+K0645;Millennials;Mujer;Barcelona;2
+K0646;Gen X;Mujer;Alicante;1
+K0647;Gen X;Hombre;Madrid;3
+K0648;Gen Z;Hombre;Madrid;1
+K0649;Gen Z;Hombre;Alicante;1
+K0650;Millennials;Hombre;Cádiz;2
+K0651;Gen Z;Mujer;Valencia;2
+K0652;Gen Z;Mujer;Valencia;1
+K0653;Gen X;Hombre;Valencia;1
+K0654;Millennials;Mujer;Madrid;2
+K0655;Millennials;Mujer;Bizkaia;2
+K0656;Millennials;Mujer;Madrid;2
+K0657;Gen Z;Mujer;Barcelona;3
+K0658;Gen Z;Mujer;Bizkaia;1
+K0659;Gen X;Mujer;Barcelona;2
+K0660;Boomers;Mujer;Alicante;1
+K0661;Millennials;Mujer;Sevilla;3
+K0662;Millennials;Mujer;Málaga;1
+K0663;Gen Z;Mujer;Valencia;4+
+K0664;Millennials;Mujer;Valencia;2
+K0665;Millennials;Hombre;Las Palmas;3
+K0666;Millennials;Mujer;Barcelona;2
+K0667;Millennials;Hombre;Baleares;1
+K0668;Gen X;Mujer;Madrid;2
+K0669;Millennials;Mujer;Cádiz;2
+K0670;Gen Z;Mujer;Madrid;1
+K0671;Gen Z;Hombre;Barcelona;2
+K0672;Gen X;Mujer;Murcia;1
+K0673;Gen Z;Hombre;Cádiz;1
+K0674;Gen Z;Hombre;Valencia;1
+K0675;Millennials;Hombre;Alicante;2
+K0676;Gen Z;Mujer;Alicante;2
+K0677;Gen Z;Mujer;Madrid;2
+K0678;Gen X;Mujer;Valladolid;4+
+K0679;Gen Z;Hombre;Madrid;2
+K0680;Boomers;Mujer;Valencia;2
+K0681;Gen Z;Mujer;Madrid;4+
+K0682;Millennials;Hombre;Madrid;2
+K0683;Gen Z;Mujer;Madrid;2
+K0684;Millennials;Mujer;Valencia;1
+K0685;Gen X;Hombre;Alicante;1
+K0686;Millennials;Hombre;Navarra;4+
+K0687;Millennials;Mujer;Cádiz;1
+K0688;Millennials;Mujer;Barcelona;1
+K0689;Millennials;Mujer;Málaga;1
+K0690;Millennials;Hombre;Barcelona;2
+K0691;Gen Z;Hombre;Barcelona;2
+K0692;Millennials;Hombre;Las Palmas;3
+K0693;Gen Z;Hombre;Barcelona;1
+K0694;Millennials;Mujer;Madrid;2
+K0695;Gen X;Hombre;Asturias;3
+K0696;Gen Z;Hombre;Valencia;3
+K0697;Gen Z;Hombre;Barcelona;2
+K0698;Millennials;Hombre;Barcelona;4+
+K0699;Gen Z;Mujer;Valladolid;4+
+K0700;Millennials;Mujer;Valencia;3
+K0701;Gen X;Mujer;Madrid;1
+K0702;Gen Z;Hombre;Murcia;1
+K0703;Millennials;Mujer;Barcelona;2
+K0704;Millennials;Hombre;Málaga;2
+K0705;Boomers;Mujer;Madrid;2
+K0706;Gen Z;Mujer;Barcelona;3
+K0707;Millennials;Hombre;Barcelona;4+
+K0708;Gen Z;Mujer;Madrid;2
+K0709;Millennials;Mujer;A Coruña;4+
+K0710;Millennials;Hombre;Madrid;1
+K0711;Millennials;Hombre;Barcelona;2
+K0712;Gen Z;Mujer;Cádiz;1
+K0713;Gen Z;Hombre;Bizkaia;2
+K0714;Millennials;Hombre;Madrid;1
+K0715;Millennials;Mujer;Madrid;2
+K0716;Gen X;Hombre;Zaragoza;2
+K0717;Millennials;Mujer;Barcelona;2
+K0718;Millennials;Mujer;Cádiz;4+
+K0719;Millennials;Mujer;Valencia;4+
+K0720;Gen Z;Hombre;Zaragoza;2
+K0721;Gen X;Mujer;Barcelona;2
+K0722;Gen Z;Mujer;Valencia;1
+K0723;Millennials;Mujer;Zaragoza;2
+K0724;Gen Z;Hombre;Bizkaia;2
+K0725;Millennials;Mujer;Madrid;2
+K0726;Gen X;Mujer;Barcelona;3
+K0727;Millennials;Hombre;Málaga;2
+K0728;Millennials;Mujer;Baleares;2
+K0729;Gen X;Mujer;Málaga;2
+K0730;Millennials;Mujer;Cádiz;4+
+K0731;Gen Z;Mujer;Bizkaia;1
+K0732;Millennials;Hombre;Las Palmas;2
+K0733;Millennials;Hombre;A Coruña;2
+K0734;Millennials;Mujer;Alicante;2
+K0735;Gen Z;Mujer;Baleares;3
+K0736;Gen Z;Mujer;Zaragoza;4+
+K0737;Gen Z;Mujer;Granada;3
+K0738;Millennials;Mujer;Alicante;3
+K0739;Gen Z;Mujer;Málaga;1
+K0740;Gen Z;Mujer;Madrid;4+
+K0741;Gen Z;Hombre;Madrid;1
+K0742;Millennials;Mujer;Cádiz;1
+K0743;Gen Z;Hombre;Baleares;1
+K0744;Millennials;Hombre;Baleares;2
+K0745;Gen Z;Mujer;Cádiz;1
+K0746;Gen Z;Mujer;Barcelona;4+
+K0747;Millennials;Mujer;Murcia;2
+K0748;Gen X;Mujer;Barcelona;1
+K0749;Boomers;Mujer;Barcelona;1
+K0750;Gen X;Mujer;Baleares;4+
+K0751;Millennials;Mujer;Málaga;2
+K0752;Millennials;Hombre;Valencia;2
+K0753;Gen Z;Mujer;Barcelona;2
+K0754;Gen Z;Hombre;Barcelona;2
+K0755;Millennials;Mujer;Alicante;2
+K0756;Gen Z;Mujer;Valladolid;1
+K0757;Millennials;Hombre;Málaga;1
+K0758;Millennials;Hombre;Madrid;1
+K0759;Gen Z;Mujer;Madrid;2
+K0760;Millennials;Hombre;Alicante;2
+K0761;Gen Z;Mujer;Cádiz;1
+K0762;Millennials;Mujer;Málaga;2
+K0763;Gen Z;Mujer;Bizkaia;3
+K0764;Gen X;Mujer;Las Palmas;3
+K0765;Millennials;Mujer;Bizkaia;3
+K0766;Millennials;Mujer;Navarra;2
+K0767;Gen Z;Mujer;Barcelona;2
+K0768;Gen X;Mujer;Zaragoza;1
+K0769;Millennials;Mujer;Madrid;2
+K0770;Millennials;Mujer;Bizkaia;3
+K0771;Millennials;Hombre;A Coruña;4+
+K0772;Gen X;Hombre;Alicante;1
+K0773;Gen Z;Mujer;Madrid;4+
+K0774;Millennials;Mujer;Las Palmas;2
+K0775;Gen Z;Hombre;A Coruña;2
+K0776;Millennials;Mujer;Valladolid;3
+K0777;Millennials;Mujer;Madrid;1
+K0778;Gen Z;Hombre;Las Palmas;2
+K0779;Gen Z;Mujer;Murcia;2
+K0780;Gen Z;Hombre;Cádiz;2
+K0781;Millennials;Mujer;Madrid;2
+K0782;Gen X;Hombre;A Coruña;4+
+K0783;Boomers;Mujer;Madrid;3
+K0784;Millennials;Mujer;Madrid;2
+K0785;Millennials;Mujer;Madrid;2
+K0786;Gen X;Mujer;Madrid;2
+K0787;Gen Z;Mujer;Alicante;1
+K0788;Millennials;Hombre;Madrid;1
+K0789;Millennials;Mujer;Granada;4+
+K0790;Millennials;Hombre;Madrid;4+
+K0791;Millennials;Mujer;Málaga;2
+K0792;Millennials;Mujer;Madrid;1
+K0793;Gen Z;Hombre;A Coruña;4+
+K0794;Millennials;Hombre;Sevilla;3
+K0795;Millennials;Mujer;Zaragoza;2
+K0796;Gen Z;Hombre;Madrid;1
+K0797;Gen X;Hombre;Madrid;4+
+K0798;Gen Z;Hombre;Las Palmas;2
+K0799;Millennials;Hombre;Alicante;3
+K0800;Millennials;Mujer;Madrid;4+
+K0801;Gen X;Mujer;Barcelona;1
+K0802;Millennials;Mujer;Madrid;3
+K0803;Gen Z;Mujer;A Coruña;3
+K0804;Gen Z;Hombre;A Coruña;2
+K0805;Millennials;Hombre;Madrid;1
+K0806;Gen X;Mujer;Madrid;1
+K0807;Millennials;Mujer;Madrid;1
+K0808;Gen X;Hombre;Barcelona;1
+K0809;Millennials;Mujer;Valencia;1
+K0810;Gen Z;Mujer;Zaragoza;2
+K0811;Millennials;Mujer;Baleares;2
+K0812;Gen X;Hombre;Barcelona;4+
+K0813;Boomers;Mujer;Valencia;4+
+K0814;Gen Z;Hombre;Baleares;2
+K0815;Gen X;Mujer;Baleares;2
+K0816;Gen Z;Mujer;Murcia;3
+K0817;Gen Z;Hombre;Valladolid;3
+K0818;Millennials;Hombre;Barcelona;1
+K0819;Millennials;Mujer;Bizkaia;4+
+K0820;Gen Z;Hombre;Sevilla;1
+K0821;Gen Z;Mujer;Madrid;2
+K0822;Millennials;Mujer;Zaragoza;2
+K0823;Millennials;Mujer;Valencia;2
+K0824;Millennials;Mujer;Cádiz;2
+K0825;Gen Z;Hombre;Sevilla;2
+K0826;Boomers;Mujer;Madrid;2
+K0827;Gen Z;Hombre;A Coruña;1
+K0828;Millennials;Hombre;Barcelona;4+
+K0829;Gen Z;Mujer;Alicante;2
+K0830;Millennials;Hombre;Barcelona;3
+K0831;Gen Z;Mujer;Murcia;3
+K0832;Millennials;Mujer;Valencia;1
+K0833;Gen X;Mujer;Valladolid;4+
+K0834;Gen Z;Hombre;Barcelona;1
+K0835;Gen X;Mujer;Murcia;4+
+K0836;Gen X;Mujer;Madrid;3
+K0837;Gen Z;Mujer;Madrid;2
+K0838;Gen Z;Mujer;Madrid;1
+K0839;Millennials;Mujer;Madrid;1
+K0840;Gen Z;Hombre;Alicante;3
+K0841;Gen X;Mujer;Madrid;1
+K0842;Gen X;Mujer;Zaragoza;1
+K0843;Gen Z;Mujer;Madrid;2
+K0844;Gen X;Hombre;Sevilla;3
+K0845;Gen X;Mujer;Madrid;2
+K0846;Gen Z;Mujer;Madrid;2
+K0847;Millennials;Mujer;Alicante;2
+K0848;Gen Z;Mujer;Zaragoza;3
+K0849;Gen Z;Hombre;Sevilla;1
+K0850;Millennials;Mujer;Málaga;2
+K0851;Gen X;Mujer;Madrid;1
+K0852;Millennials;Mujer;Alicante;4+
+K0853;Millennials;Mujer;Málaga;1
+K0854;Gen Z;Mujer;Madrid;2
+K0855;Millennials;Hombre;Barcelona;1
+K0856;Gen Z;Hombre;A Coruña;2
+K0857;Gen Z;Mujer;Las Palmas;2
+K0858;Gen Z;Hombre;Madrid;1
+K0859;Millennials;Mujer;Madrid;2
+K0860;Gen Z;Hombre;Madrid;3
+K0861;Millennials;Mujer;Zaragoza;2
+K0862;Millennials;Mujer;Madrid;1
+K0863;Gen Z;Mujer;Madrid;3
+K0864;Millennials;Mujer;Alicante;1
+K0865;Boomers;Hombre;Valencia;2
+K0866;Gen Z;Mujer;Barcelona;2
+K0867;Gen Z;Hombre;Madrid;1
+K0868;Millennials;Hombre;Madrid;1
+K0869;Gen X;Mujer;Madrid;2
+K0870;Gen Z;Mujer;A Coruña;2
+K0871;Millennials;Hombre;Cádiz;2
+K0872;Gen X;Mujer;Barcelona;1
+K0873;Gen Z;Hombre;Barcelona;3
+K0874;Millennials;Mujer;Valencia;1
+K0875;Millennials;Mujer;Madrid;2
+K0876;Gen Z;Mujer;Asturias;1
+K0877;Millennials;Hombre;Barcelona;3
+K0878;Gen Z;Mujer;Madrid;1
+K0879;Gen X;Mujer;Granada;4+
+K0880;Millennials;Mujer;Las Palmas;4+
+K0881;Gen Z;Mujer;Zaragoza;4+
+K0882;Gen Z;Mujer;Málaga;2
+K0883;Gen Z;Mujer;Valencia;2
+K0884;Millennials;Mujer;Cádiz;2
+K0885;Millennials;Mujer;Navarra;1
+K0886;Millennials;Mujer;Barcelona;4+
+K0887;Millennials;Hombre;Sevilla;1
+K0888;Millennials;Hombre;Cádiz;1
+K0889;Gen Z;Mujer;Valladolid;2
+K0890;Millennials;Hombre;Zaragoza;2
+K0891;Millennials;Mujer;Madrid;2
+K0892;Millennials;Hombre;Sevilla;2
+K0893;Boomers;Hombre;Baleares;3
+K0894;Millennials;Mujer;Madrid;4+
+K0895;Gen Z;Hombre;Sevilla;3
+K0896;Gen Z;Mujer;Alicante;1
+K0897;Gen Z;Mujer;Sevilla;1
+K0898;Millennials;Mujer;Madrid;2
+K0899;Millennials;Mujer;Asturias;1
+K0900;Gen Z;Hombre;Sevilla;2
+K0901;Gen Z;Mujer;Murcia;2
+K0902;Gen Z;Hombre;Barcelona;2
+K0903;Gen X;Mujer;A Coruña;3
+K0904;Millennials;Mujer;Madrid;2
+K0905;Gen Z;Mujer;Murcia;1
+K0906;Millennials;Hombre;Granada;1
+K0907;Gen Z;Hombre;Barcelona;1
+K0908;Gen X;Mujer;Valencia;1
+K0909;Gen X;Mujer;Madrid;4+
+K0910;Millennials;Mujer;Valencia;2
+K0911;Gen Z;Mujer;Málaga;2
+K0912;Millennials;Hombre;A Coruña;1
+K0913;Gen Z;Mujer;Barcelona;2
+K0914;Millennials;Mujer;Alicante;3
+K0915;Gen X;Mujer;Málaga;1
+K0916;Gen X;Hombre;Valencia;3
+K0917;Gen Z;Mujer;Málaga;2
+K0918;Millennials;Mujer;Granada;1
+K0919;Boomers;Hombre;Madrid;2
+K0920;Millennials;Mujer;Madrid;1
+K0921;Gen Z;Mujer;Barcelona;2
+K0922;Gen X;Mujer;Barcelona;1
+K0923;Gen X;Mujer;Madrid;1
+K0924;Gen X;Mujer;Valencia;4+
+K0925;Gen X;Mujer;Cádiz;4+
+K0926;Gen Z;Mujer;Alicante;1
+K0927;Gen Z;Mujer;Baleares;3
+K0928;Gen X;Mujer;Madrid;2
+K0929;Gen X;Mujer;Valencia;3
+K0930;Millennials;Mujer;Barcelona;2
+K0931;Gen Z;Mujer;Granada;3
+K0932;Gen Z;Hombre;Madrid;1
+K0933;Millennials;Mujer;Valladolid;2
+K0934;Millennials;Mujer;Murcia;2
+K0935;Millennials;Mujer;Valencia;2
+K0936;Gen X;Mujer;Madrid;4+
+K0937;Boomers;Mujer;Barcelona;3
+K0938;Gen X;Mujer;Murcia;1
+K0939;Boomers;Mujer;Madrid;1
+K0940;Millennials;Mujer;Las Palmas;4+
+K0941;Millennials;Hombre;Murcia;2
+K0942;Gen X;Mujer;Valencia;4+
+K0943;Millennials;Mujer;Barcelona;2
+K0944;Gen X;Hombre;Bizkaia;4+
+K0945;Millennials;Hombre;Málaga;2
+K0946;Gen X;Mujer;Madrid;1
+K0947;Millennials;Mujer;A Coruña;4+
+K0948;Millennials;Mujer;Valladolid;1
+K0949;Millennials;Mujer;A Coruña;2
+K0950;Millennials;Mujer;Zaragoza;3
+K0951;Gen X;Mujer;Alicante;1
+K0952;Millennials;Mujer;Valencia;2
+K0953;Gen Z;Hombre;Sevilla;1
+K0954;Millennials;Hombre;Alicante;4+
+K0955;Gen X;Mujer;Asturias;4+
+K0956;Millennials;Mujer;Madrid;4+
+K0957;Millennials;Hombre;Barcelona;2
+K0958;Boomers;Hombre;Madrid;4+
+K0959;Millennials;Mujer;Madrid;2
+K0960;Millennials;Hombre;Navarra;1
+K0961;Gen Z;Mujer;Barcelona;2
+K0962;Gen Z;Mujer;Murcia;2
+K0963;Gen X;Mujer;Madrid;2
+K0964;Millennials;Mujer;Sevilla;1
+K0965;Millennials;Mujer;Barcelona;2
+K0966;Gen X;Hombre;Granada;1
+K0967;Millennials;Mujer;Alicante;2
+K0968;Millennials;Hombre;Alicante;4+
+K0969;Boomers;Mujer;Granada;2
+K0970;Millennials;Mujer;Las Palmas;3
+K0971;Gen X;Mujer;Alicante;4+
+K0972;Gen Z;Mujer;Baleares;1
+K0973;Gen X;Mujer;Murcia;1
+K0974;Gen X;Mujer;Asturias;3
+K0975;Gen Z;Mujer;A Coruña;3
+K0976;Millennials;Mujer;Madrid;2
+K0977;Millennials;Hombre;Barcelona;1
+K0978;Gen Z;Mujer;A Coruña;3
+K0979;Millennials;Mujer;A Coruña;2
+K0980;Millennials;Mujer;Madrid;2
+K0981;Boomers;Mujer;Sevilla;1
+K0982;Gen Z;Mujer;Sevilla;2
+K0983;Gen Z;Hombre;Zaragoza;1
+K0984;Millennials;Hombre;A Coruña;4+
+K0985;Millennials;Mujer;Sevilla;3
+K0986;Millennials;Mujer;Madrid;2
+K0987;Gen X;Hombre;Barcelona;2
+K0988;Gen Z;Mujer;Barcelona;3
+K0989;Millennials;Hombre;Las Palmas;1
+K0990;Millennials;Mujer;Valencia;4+
+K0991;Millennials;Hombre;Barcelona;2
+K0992;Gen Z;Hombre;Valencia;2
+K0993;Gen Z;Hombre;Málaga;3
+K0994;Millennials;Mujer;Madrid;3
+K0995;Millennials;Mujer;Sevilla;1
+K0996;Millennials;Mujer;Madrid;1
+K0997;Millennials;Mujer;Madrid;3
+K0998;Gen Z;Mujer;Bizkaia;4+
+K0999;Millennials;Hombre;Madrid;1
+K1000;Millennials;Mujer;Asturias;1
+K1001;Gen X;Hombre;Barcelona;3
+K1002;Gen Z;Mujer;Cádiz;3
+K1003;Gen Z;Mujer;Alicante;4+
+K1004;Millennials;Mujer;Barcelona;3
+K1005;Millennials;Mujer;Barcelona;3
+K1006;Boomers;Mujer;Sevilla;1
+K1007;Gen X;Hombre;Madrid;1
+K1008;Millennials;Hombre;Asturias;1
+K1009;Gen Z;Hombre;Madrid;2
+K1010;Millennials;Mujer;Granada;2
+K1011;Millennials;Mujer;Sevilla;1
+K1012;Gen Z;Hombre;Alicante;4+
+K1013;Gen Z;Mujer;Sevilla;2
+K1014;Gen Z;Mujer;Barcelona;4+
+K1015;Millennials;Mujer;Granada;3
+K1016;Gen Z;Mujer;Barcelona;1
+K1017;Gen Z;Hombre;Alicante;2
+K1018;Gen Z;Mujer;Valladolid;3
+K1019;Gen X;Mujer;Asturias;1
+K1020;Millennials;Mujer;Bizkaia;1
+K1021;Gen Z;Mujer;Sevilla;2
+K1022;Millennials;Hombre;Murcia;4+
+K1023;Gen X;Hombre;Barcelona;1
+K1024;Gen Z;Mujer;Granada;2
+K1025;Millennials;Mujer;Málaga;1
+K1026;Gen Z;Mujer;Barcelona;1
+K1027;Millennials;Mujer;Valencia;1
+K1028;Gen Z;Mujer;Madrid;2
+K1029;Gen X;Hombre;Valencia;2
+K1030;Gen Z;Mujer;Sevilla;1
+K1031;Millennials;Mujer;Madrid;2
+K1032;Gen Z;Hombre;Valladolid;1
+K1033;Millennials;Mujer;Barcelona;4+
+K1034;Millennials;Hombre;Madrid;2
+K1035;Gen Z;Mujer;Madrid;2
+K1036;Gen Z;Mujer;Valencia;4+
+K1037;Millennials;Hombre;Barcelona;3
+K1038;Millennials;Mujer;Murcia;4+
+K1039;Millennials;Mujer;Las Palmas;2
+K1040;Gen Z;Hombre;Valladolid;3
+K1041;Millennials;Mujer;Madrid;2
+K1042;Millennials;Mujer;Valencia;2
+K1043;Gen Z;Mujer;Barcelona;4+
+K1044;Millennials;Mujer;Madrid;2
+K1045;Millennials;Hombre;Barcelona;2
+K1046;Gen Z;Hombre;Asturias;2
+K1047;Gen Z;Hombre;Madrid;1
+K1048;Millennials;Mujer;Málaga;1
+K1049;Millennials;Mujer;Madrid;4+
+K1050;Gen Z;Mujer;Barcelona;1
+K1051;Gen Z;Mujer;Cádiz;3
+K1052;Gen Z;Mujer;Valencia;3
+K1053;Millennials;Mujer;Bizkaia;1
+K1054;Millennials;Hombre;Madrid;1
+K1055;Gen Z;Mujer;Madrid;2
+K1056;Millennials;Mujer;Bizkaia;2
+K1057;Millennials;Mujer;Alicante;1
+K1058;Millennials;Mujer;Navarra;1
+K1059;Boomers;Hombre;Barcelona;1
+K1060;Boomers;Hombre;Las Palmas;1
+K1061;Gen Z;Mujer;Madrid;2
+K1062;Millennials;Mujer;Granada;3
+K1063;Millennials;Mujer;Zaragoza;4+
+K1064;Millennials;Hombre;Málaga;3
+K1065;Gen X;Hombre;Bizkaia;1
+K1066;Millennials;Mujer;Madrid;2
+K1067;Gen Z;Hombre;Madrid;2
+K1068;Millennials;Mujer;Alicante;3
+K1069;Gen Z;Mujer;Navarra;3
+K1070;Millennials;Mujer;Murcia;1
+K1071;Gen X;Mujer;Madrid;1
+K1072;Gen Z;Hombre;Sevilla;1
+K1073;Gen Z;Mujer;Las Palmas;2
+K1074;Gen X;Mujer;Valencia;3
+K1075;Boomers;Mujer;Sevilla;2
+K1076;Millennials;Mujer;Madrid;2
+K1077;Millennials;Hombre;Barcelona;2
+K1078;Gen Z;Mujer;Valladolid;2
+K1079;Gen Z;Hombre;Valencia;1
+K1080;Gen Z;Mujer;Madrid;1
+K1081;Gen Z;Mujer;Asturias;2
+K1082;Gen X;Mujer;Madrid;2
+K1083;Gen Z;Hombre;Granada;1
+K1084;Millennials;Hombre;Sevilla;4+
+K1085;Gen Z;Hombre;Sevilla;2
+K1086;Gen Z;Mujer;Madrid;2
+K1087;Gen Z;Mujer;Baleares;4+
+K1088;Gen Z;Mujer;A Coruña;2
+K1089;Millennials;Mujer;Valencia;1
+K1090;Gen X;Hombre;Las Palmas;2
+K1091;Millennials;Mujer;Baleares;1
+K1092;Gen Z;Hombre;Madrid;1
+K1093;Gen Z;Mujer;Valencia;2
+K1094;Gen Z;Hombre;Barcelona;2
+K1095;Millennials;Hombre;Asturias;1
+K1096;Millennials;Hombre;Barcelona;2
+K1097;Gen Z;Hombre;Madrid;3
+K1098;Millennials;Mujer;Asturias;1
+K1099;Millennials;Mujer;Granada;2
+K1100;Gen X;Mujer;Madrid;4+
+K1101;Gen Z;Hombre;Alicante;2
+K1102;Millennials;Mujer;Zaragoza;2
+K1103;Gen Z;Mujer;A Coruña;1
+K1104;Gen Z;Hombre;Barcelona;4+
+K1105;Gen Z;Mujer;Cádiz;2
+K1106;Millennials;Mujer;Madrid;1
+K1107;Millennials;Mujer;A Coruña;1
+K1108;Gen Z;Mujer;Navarra;4+
+K1109;Millennials;Mujer;Navarra;2
+K1110;Gen Z;Mujer;Madrid;1
+K1111;Gen X;Hombre;Bizkaia;4+
+K1112;Gen Z;Hombre;Barcelona;2
+K1113;Millennials;Mujer;Madrid;1
+K1114;Boomers;Mujer;Granada;2
+K1115;Millennials;Mujer;Barcelona;2
+K1116;Gen Z;Mujer;Valencia;3
+K1117;Millennials;Mujer;A Coruña;1
+K1118;Gen Z;Mujer;Granada;1
+K1119;Boomers;Hombre;Barcelona;3
+K1120;Millennials;Mujer;Zaragoza;1
+K1121;Millennials;Hombre;Murcia;1
+K1122;Millennials;Mujer;Valladolid;1
+K1123;Gen X;Mujer;Barcelona;1
+K1124;Gen Z;Mujer;Valencia;4+
+K1125;Millennials;Mujer;Murcia;3
+K1126;Gen Z;Hombre;Barcelona;3
+K1127;Millennials;Hombre;Sevilla;2
+K1128;Gen Z;Mujer;Barcelona;3
+K1129;Millennials;Hombre;Sevilla;2
+K1130;Gen Z;Mujer;Barcelona;1
+K1131;Gen Z;Mujer;Bizkaia;3
+K1132;Gen Z;Mujer;Zaragoza;2
+K1133;Millennials;Hombre;Asturias;1
+K1134;Millennials;Mujer;Las Palmas;4+
+K1135;Gen Z;Mujer;Barcelona;1
+K1136;Millennials;Hombre;Las Palmas;2
+K1137;Gen Z;Mujer;Madrid;4+
+K1138;Millennials;Mujer;Murcia;3
+K1139;Gen Z;Hombre;A Coruña;1
+K1140;Millennials;Mujer;Barcelona;1
+K1141;Boomers;Mujer;Madrid;2
+K1142;Gen Z;Hombre;Barcelona;1
+K1143;Millennials;Mujer;Málaga;4+
+K1144;Gen Z;Mujer;Valencia;2
+K1145;Gen X;Hombre;Valladolid;2
+K1146;Gen Z;Mujer;Valencia;1
+K1147;Gen X;Mujer;Málaga;1
+K1148;Gen Z;Mujer;Madrid;4+
+K1149;Gen X;Hombre;Cádiz;1
+K1150;Millennials;Hombre;Madrid;1
+K1151;Gen Z;Mujer;Valencia;1
+K1152;Millennials;Mujer;Barcelona;1
+K1153;Gen Z;Mujer;A Coruña;2
+K1154;Millennials;Mujer;Valencia;4+
+K1155;Gen Z;Mujer;Asturias;1
+K1156;Gen Z;Hombre;Barcelona;3
+K1157;Gen Z;Hombre;Sevilla;1
+K1158;Millennials;Hombre;Bizkaia;2
+K1159;Gen Z;Mujer;Zaragoza;1
+K1160;Millennials;Mujer;Valencia;2
+K1161;Millennials;Mujer;Madrid;2
+K1162;Gen X;Mujer;Barcelona;1
+K1163;Gen Z;Mujer;Granada;1
+K1164;Boomers;Hombre;Valencia;1
+K1165;Gen Z;Mujer;Bizkaia;2
+K1166;Gen Z;Mujer;A Coruña;2
+K1167;Gen Z;Hombre;Madrid;4+
+K1168;Millennials;Mujer;Valencia;2
+K1169;Boomers;Mujer;Alicante;3
+K1170;Gen Z;Mujer;Sevilla;1
+K1171;Gen Z;Mujer;Zaragoza;2
+K1172;Gen Z;Hombre;Madrid;1
+K1173;Millennials;Mujer;Las Palmas;2
+K1174;Gen Z;Hombre;Zaragoza;1
+K1175;Gen Z;Hombre;Sevilla;1
+K1176;Millennials;Mujer;Madrid;2
+K1177;Millennials;Hombre;Madrid;1
+K1178;Gen Z;Mujer;Madrid;3
+K1179;Millennials;Mujer;Valencia;1
+K1180;Millennials;Mujer;Madrid;2
+K1181;Millennials;Hombre;Cádiz;2
+K1182;Gen Z;Mujer;Madrid;1
+K1183;Gen Z;Hombre;Madrid;3
+K1184;Millennials;Mujer;Las Palmas;4+
+K1185;Gen X;Hombre;Madrid;3
+K1186;Millennials;Mujer;Barcelona;1
+K1187;Gen Z;Mujer;Barcelona;1
+K1188;Gen Z;Hombre;Valencia;3
+K1189;Millennials;Mujer;Madrid;1
+K1190;Gen Z;Mujer;Baleares;2
+K1191;Millennials;Mujer;Madrid;1
+K1192;Gen Z;Hombre;Valladolid;4+
+K1193;Millennials;Hombre;Madrid;1
+K1194;Millennials;Hombre;Madrid;4+
+K1195;Millennials;Mujer;A Coruña;1
+K1196;Millennials;Mujer;Alicante;1
+K1197;Millennials;Mujer;Baleares;4+
+K1198;Gen X;Mujer;Las Palmas;4+
+K1199;Millennials;Mujer;Madrid;2
+K1200;Gen Z;Mujer;Barcelona;4+
+K1201;Gen X;Mujer;Zaragoza;3
+K1202;Millennials;Hombre;Barcelona;4+
+K1203;Millennials;Mujer;Barcelona;3
+K1204;Millennials;Mujer;Madrid;2
+K1205;Gen Z;Mujer;Sevilla;2
+K1206;Gen Z;Hombre;Madrid;1
+K1207;Gen Z;Mujer;Asturias;2
+K1208;Gen Z;Hombre;Barcelona;2
+K1209;Millennials;Mujer;Madrid;1
+K1210;Millennials;Mujer;Cádiz;1
+K1211;Millennials;Mujer;Barcelona;1
+K1212;Gen Z;Mujer;Barcelona;2
+K1213;Millennials;Mujer;Málaga;3
+K1214;Millennials;Mujer;Zaragoza;2
+K1215;Millennials;Hombre;Madrid;1
+K1216;Millennials;Mujer;Sevilla;1
+K1217;Millennials;Mujer;Sevilla;3
+K1218;Gen X;Mujer;A Coruña;1
+K1219;Gen Z;Mujer;Las Palmas;2
+K1220;Millennials;Hombre;Barcelona;2
+K1221;Gen Z;Hombre;Valencia;2
+K1222;Millennials;Hombre;Granada;1
+K1223;Millennials;Mujer;Sevilla;2
+K1224;Millennials;Mujer;Valencia;4+
+K1225;Boomers;Hombre;Sevilla;1
+K1226;Millennials;Mujer;Madrid;4+
+K1227;Millennials;Hombre;Málaga;1
+K1228;Boomers;Hombre;Barcelona;1
+K1229;Millennials;Mujer;Bizkaia;2
+K1230;Millennials;Mujer;Murcia;2
+K1231;Millennials;Hombre;Valencia;1
+K1232;Gen X;Mujer;Barcelona;1
+K1233;Gen Z;Mujer;Madrid;4+
+K1234;Gen Z;Mujer;Barcelona;1
+K1235;Millennials;Hombre;Asturias;2
+K1236;Millennials;Mujer;Barcelona;1
+K1237;Gen Z;Hombre;Madrid;2
+K1238;Gen Z;Mujer;Alicante;2
+K1239;Gen Z;Hombre;Barcelona;2
+K1240;Millennials;Hombre;Las Palmas;1
+K1241;Gen Z;Mujer;Barcelona;2
+K1242;Gen X;Hombre;Navarra;1
+K1243;Millennials;Mujer;Alicante;3
+K1244;Millennials;Hombre;Madrid;3
+K1245;Millennials;Hombre;Valencia;2
+K1246;Millennials;Mujer;Málaga;1
+K1247;Gen Z;Mujer;Murcia;2
+K1248;Millennials;Hombre;Murcia;1
+K1249;Gen Z;Hombre;Barcelona;2
+K1250;Millennials;Mujer;Barcelona;3
+K1251;Gen X;Mujer;Sevilla;3
+K1252;Millennials;Mujer;Valencia;1
+K1253;Millennials;Mujer;Málaga;4+
+K1254;Gen X;Hombre;Madrid;2
+K1255;Gen Z;Mujer;Valladolid;2
+K1256;Millennials;Hombre;Valencia;2
+K1257;Gen Z;Mujer;Barcelona;3
+K1258;Millennials;Hombre;Alicante;3
+K1259;Millennials;Mujer;Málaga;2
+K1260;Gen Z;Mujer;Madrid;2
+K1261;Millennials;Mujer;Murcia;2
+K1262;Boomers;Mujer;Madrid;2
+K1263;Millennials;Hombre;Sevilla;3
+K1264;Millennials;Mujer;Valencia;3
+K1265;Gen Z;Hombre;Valencia;4+
+K1266;Gen Z;Mujer;Bizkaia;1
+K1267;Gen Z;Mujer;A Coruña;1
+K1268;Boomers;Mujer;Zaragoza;3
+K1269;Millennials;Mujer;Málaga;2
+K1270;Millennials;Mujer;Málaga;2
+K1271;Gen Z;Mujer;Madrid;1
+K1272;Gen Z;Hombre;Málaga;1
+K1273;Millennials;Mujer;Valencia;2
+K1274;Millennials;Hombre;Baleares;4+
+K1275;Gen Z;Mujer;Barcelona;1
+K1276;Gen Z;Mujer;Sevilla;2
+K1277;Gen Z;Mujer;Alicante;4+
+K1278;Millennials;Hombre;Cádiz;2
+K1279;Millennials;Mujer;Murcia;1
+K1280;Millennials;Mujer;Baleares;1
+K1281;Gen Z;Mujer;Murcia;1
+K1282;Gen Z;Mujer;Madrid;1
+K1283;Millennials;Mujer;Bizkaia;2
+K1284;Millennials;Mujer;Barcelona;3
+K1285;Gen X;Mujer;Madrid;2
+K1286;Gen Z;Mujer;Granada;2
+K1287;Millennials;Mujer;Madrid;4+
+K1288;Gen Z;Hombre;Madrid;2
+K1289;Millennials;Hombre;Valencia;2
+K1290;Gen Z;Mujer;Sevilla;2
+K1291;Millennials;Hombre;Barcelona;1
+K1292;Gen X;Mujer;Madrid;4+
+K1293;Millennials;Mujer;Valladolid;2
+K1294;Millennials;Mujer;Cádiz;3
+K1295;Millennials;Hombre;Granada;2
+K1296;Boomers;Mujer;Barcelona;2
+K1297;Millennials;Hombre;Valencia;4+
+K1298;Millennials;Mujer;Sevilla;3
+K1299;Millennials;Mujer;Madrid;2
+K1300;Millennials;Hombre;Madrid;3
+K1301;Gen Z;Hombre;Granada;4+
+K1302;Millennials;Hombre;Alicante;1
+K1303;Gen Z;Mujer;Murcia;2
+K1304;Gen Z;Mujer;Málaga;2
+K1305;Gen Z;Mujer;Valencia;2
+K1306;Gen Z;Mujer;Alicante;3
+K1307;Millennials;Hombre;Bizkaia;1
+K1308;Millennials;Hombre;Barcelona;1
+K1309;Gen Z;Hombre;Sevilla;1
+K1310;Gen X;Hombre;Madrid;2
+K1311;Gen X;Mujer;Navarra;2
+K1312;Gen Z;Mujer;Las Palmas;2
+K1313;Millennials;Mujer;Barcelona;2
+K1314;Millennials;Hombre;Navarra;1
+K1315;Boomers;Hombre;Alicante;2
+K1316;Millennials;Hombre;Barcelona;2
+K1317;Gen Z;Mujer;Madrid;3
+K1318;Gen X;Mujer;Zaragoza;1
+K1319;Millennials;Mujer;Madrid;1
+K1320;Gen Z;Mujer;Málaga;2
+K1321;Millennials;Hombre;Valladolid;4+
+K1322;Gen Z;Mujer;Valladolid;3
+K1323;Millennials;Hombre;Granada;3
+K1324;Millennials;Mujer;Bizkaia;2
+K1325;Gen Z;Hombre;Valladolid;1
+K1326;Gen Z;Mujer;Cádiz;4+
+K1327;Millennials;Mujer;Madrid;3
+K1328;Millennials;Mujer;Asturias;2
+K1329;Millennials;Hombre;Murcia;2
+K1330;Gen Z;Hombre;Bizkaia;2
+K1331;Gen Z;Mujer;Madrid;3
+K1332;Millennials;Mujer;Alicante;2
+K1333;Gen Z;Mujer;Murcia;3
+K1334;Gen Z;Mujer;Málaga;3
+K1335;Millennials;Mujer;Madrid;2
+K1336;Gen Z;Mujer;Madrid;2
+K1337;Millennials;Hombre;Granada;4+
+K1338;Gen Z;Hombre;Madrid;1
+K1339;Millennials;Hombre;Cádiz;3
+K1340;Gen X;Hombre;Madrid;3
+K1341;Millennials;Mujer;Alicante;1
+K1342;Millennials;Mujer;Madrid;2
+K1343;Millennials;Mujer;Granada;1
+K1344;Millennials;Hombre;Alicante;1
+K1345;Millennials;Hombre;Barcelona;1
+K1346;Gen Z;Hombre;Madrid;3
+K1347;Millennials;Mujer;Valencia;4+
+K1348;Millennials;Mujer;Alicante;4+
+K1349;Millennials;Mujer;Valladolid;2
+K1350;Millennials;Mujer;Madrid;1
+K1351;Gen Z;Mujer;Sevilla;3
+K1352;Gen Z;Hombre;Valencia;1
+K1353;Millennials;Mujer;Madrid;2
+K1354;Gen X;Hombre;Madrid;1
+K1355;Gen X;Mujer;Valencia;2
+K1356;Millennials;Mujer;Valencia;4+
+K1357;Millennials;Mujer;Barcelona;2
+K1358;Millennials;Hombre;Madrid;2
+K1359;Gen Z;Mujer;Barcelona;4+
+K1360;Millennials;Hombre;Asturias;2
+K1361;Boomers;Mujer;Valladolid;3
+K1362;Gen Z;Hombre;Cádiz;2
+K1363;Millennials;Mujer;Asturias;1
+K1364;Gen Z;Hombre;Bizkaia;2
+K1365;Millennials;Mujer;Alicante;1
+K1366;Millennials;Mujer;Madrid;1
+K1367;Millennials;Hombre;Málaga;2
+K1368;Millennials;Mujer;Sevilla;1
+K1369;Gen Z;Hombre;Bizkaia;1
+K1370;Gen X;Mujer;Madrid;2
+K1371;Gen Z;Mujer;Sevilla;1
+K1372;Gen X;Hombre;Barcelona;4+
+K1373;Millennials;Mujer;Navarra;2
+K1374;Gen Z;Mujer;Valencia;3
+K1375;Millennials;Mujer;Málaga;1
+K1376;Millennials;Mujer;Murcia;4+
+K1377;Millennials;Hombre;Málaga;2
+K1378;Gen Z;Hombre;Madrid;2
+K1379;Gen Z;Mujer;Cádiz;1
+K1380;Millennials;Hombre;Zaragoza;1
+K1381;Gen Z;Mujer;Madrid;2
+K1382;Millennials;Hombre;Valencia;2
+K1383;Millennials;Mujer;Murcia;1
+K1384;Gen X;Mujer;Bizkaia;3
+K1385;Millennials;Hombre;Barcelona;3
+K1386;Millennials;Hombre;Valencia;1
+K1387;Millennials;Mujer;Barcelona;3
+K1388;Gen Z;Mujer;Madrid;4+
+K1389;Gen Z;Mujer;Valencia;2
+K1390;Gen Z;Mujer;Barcelona;1
+K1391;Millennials;Hombre;Navarra;1
+K1392;Gen Z;Mujer;Madrid;1
+K1393;Gen Z;Hombre;Murcia;2
+K1394;Millennials;Mujer;Sevilla;1
+K1395;Boomers;Mujer;Barcelona;2
+K1396;Gen X;Mujer;Madrid;3
+K1397;Gen X;Hombre;Madrid;2
+K1398;Boomers;Hombre;Cádiz;4+
+K1399;Millennials;Mujer;Cádiz;2
+K1400;Gen Z;Mujer;Baleares;2
+K1401;Gen X;Mujer;Madrid;3
+K1402;Gen X;Mujer;Bizkaia;2
+K1403;Millennials;Hombre;Murcia;4+
+K1404;Millennials;Mujer;Madrid;2
+K1405;Gen Z;Mujer;Valladolid;1
+K1406;Millennials;Hombre;Madrid;2
+K1407;Gen Z;Hombre;Bizkaia;2
+K1408;Millennials;Mujer;Sevilla;3
+K1409;Gen Z;Mujer;Barcelona;3
+K1410;Millennials;Mujer;Barcelona;1
+K1411;Gen Z;Hombre;Madrid;1
+K1412;Gen X;Mujer;Madrid;4+
+K1413;Gen Z;Mujer;Madrid;4+
+K1414;Gen Z;Hombre;Madrid;3
+K1415;Gen Z;Mujer;Málaga;3
+K1416;Gen Z;Mujer;Barcelona;3
+K1417;Millennials;Mujer;Málaga;3
+K1418;Gen Z;Mujer;Madrid;2
+K1419;Millennials;Mujer;Valencia;3
+K1420;Millennials;Mujer;Madrid;2
+K1421;Gen Z;Mujer;Madrid;3
+K1422;Millennials;Mujer;Las Palmas;1
+K1423;Gen Z;Mujer;Madrid;2
+K1424;Millennials;Hombre;Sevilla;1
+K1425;Gen Z;Hombre;A Coruña;4+
+K1426;Millennials;Hombre;Valladolid;1
+K1427;Gen X;Mujer;Sevilla;1
+K1428;Gen Z;Mujer;Barcelona;2
+K1429;Millennials;Hombre;Alicante;4+
+K1430;Gen X;Hombre;Madrid;3
+K1431;Gen Z;Mujer;Las Palmas;3
+K1432;Gen Z;Mujer;Alicante;4+
+K1433;Millennials;Mujer;Murcia;1
+K1434;Gen Z;Hombre;Barcelona;4+
+K1435;Boomers;Hombre;Madrid;1
+K1436;Gen Z;Mujer;Sevilla;4+
+K1437;Millennials;Mujer;Madrid;1
+K1438;Millennials;Mujer;Alicante;2
+K1439;Gen X;Hombre;Madrid;4+
+K1440;Gen X;Mujer;Málaga;2
+K1441;Gen X;Hombre;Madrid;2
+K1442;Gen X;Mujer;Zaragoza;1
+K1443;Millennials;Mujer;Alicante;3
+K1444;Millennials;Mujer;Cádiz;2
+K1445;Gen X;Mujer;Málaga;2
+K1446;Gen Z;Mujer;Bizkaia;4+
+K1447;Gen Z;Mujer;Madrid;2
+K1448;Millennials;Hombre;Cádiz;2
+K1449;Gen X;Mujer;Asturias;1
+K1450;Millennials;Hombre;Valencia;2
+K1451;Millennials;Mujer;Murcia;2
+K1452;Millennials;Mujer;Madrid;4+
+K1453;Millennials;Mujer;Navarra;4+
+K1454;Gen X;Mujer;Sevilla;1
+K1455;Millennials;Mujer;Valladolid;2
+K1456;Millennials;Mujer;Valencia;4+
+K1457;Gen Z;Mujer;Valencia;2
+K1458;Gen Z;Mujer;Murcia;1
+K1459;Gen Z;Mujer;Baleares;2
+K1460;Boomers;Mujer;Valencia;2
+K1461;Millennials;Mujer;Murcia;3
+K1462;Millennials;Mujer;Bizkaia;2
+K1463;Gen Z;Mujer;Zaragoza;2
+K1464;Millennials;Mujer;Barcelona;4+
+K1465;Gen Z;Hombre;Granada;2
+K1466;Millennials;Hombre;Madrid;1
+K1467;Gen X;Mujer;Asturias;3
+K1468;Millennials;Hombre;Sevilla;3
+K1469;Gen Z;Mujer;Sevilla;2
+K1470;Gen X;Hombre;Valencia;3
+K1471;Millennials;Mujer;Sevilla;1
+K1472;Millennials;Mujer;Granada;4+
+K1473;Millennials;Mujer;Murcia;1
+K1474;Millennials;Mujer;Barcelona;4+
+K1475;Gen X;Hombre;Barcelona;1
+K1476;Gen Z;Mujer;Valencia;3
+K1477;Millennials;Hombre;Asturias;4+
+K1478;Millennials;Mujer;Barcelona;2
+K1479;Gen Z;Mujer;Las Palmas;2
+K1480;Millennials;Hombre;Barcelona;2
+K1481;Gen Z;Mujer;Madrid;2
+K1482;Millennials;Mujer;Zaragoza;2
+K1483;Gen Z;Mujer;Valencia;2
+K1484;Gen Z;Hombre;Bizkaia;2
+K1485;Millennials;Mujer;Alicante;4+
+K1486;Gen Z;Mujer;Murcia;1
+K1487;Millennials;Mujer;A Coruña;2
+K1488;Gen X;Hombre;Valencia;3
+K1489;Gen Z;Hombre;Baleares;3
+K1490;Millennials;Hombre;Sevilla;1
+K1491;Millennials;Hombre;Granada;1
+K1492;Millennials;Mujer;Baleares;3
+K1493;Millennials;Mujer;Asturias;1
+K1494;Millennials;Hombre;A Coruña;2
+K1495;Millennials;Mujer;Málaga;4+
+K1496;Gen X;Mujer;Bizkaia;4+
+K1497;Millennials;Hombre;Sevilla;1
+K1498;Gen Z;Hombre;Madrid;2
+K1499;Gen Z;Hombre;Valencia;2
+K1500;Boomers;Hombre;Sevilla;1
+K1501;Gen Z;Mujer;Valencia;2
+K1502;Gen Z;Hombre;Bizkaia;2
+K1503;Gen Z;Hombre;Asturias;1
+K1504;Millennials;Mujer;Málaga;4+
+K1505;Gen Z;Mujer;Navarra;4+
+K1506;Millennials;Hombre;Málaga;1
+K1507;Gen Z;Hombre;Granada;2
+K1508;Millennials;Mujer;Barcelona;2
+K1509;Millennials;Mujer;Valladolid;4+
+K1510;Gen Z;Hombre;Sevilla;4+
+K1511;Millennials;Mujer;Navarra;3
+K1512;Boomers;Mujer;Zaragoza;3
+K1513;Gen X;Hombre;Valencia;2
+K1514;Millennials;Hombre;Bizkaia;1
+K1515;Gen X;Hombre;Madrid;1
+K1516;Millennials;Mujer;Sevilla;4+
+K1517;Gen Z;Mujer;Madrid;4+
+K1518;Gen Z;Hombre;Madrid;1
+K1519;Gen Z;Hombre;Barcelona;1
+K1520;Millennials;Mujer;Valladolid;4+
+K1521;Gen Z;Mujer;Barcelona;4+
+K1522;Millennials;Mujer;Madrid;3
+K1523;Millennials;Mujer;Barcelona;2
+K1524;Gen Z;Mujer;Madrid;4+
+K1525;Gen Z;Mujer;Barcelona;1
+K1526;Gen Z;Mujer;Barcelona;4+
+K1527;Millennials;Mujer;Barcelona;1
+K1528;Boomers;Hombre;Málaga;1
+K1529;Gen Z;Hombre;Madrid;3
+K1530;Gen Z;Mujer;Murcia;1
+K1531;Gen Z;Hombre;A Coruña;2
+K1532;Gen Z;Hombre;Málaga;2
+K1533;Gen Z;Mujer;Barcelona;4+
+K1534;Gen Z;Mujer;Madrid;1
+K1535;Millennials;Mujer;Valencia;2
+K1536;Millennials;Mujer;Sevilla;1
+K1537;Gen Z;Mujer;Madrid;1
+K1538;Millennials;Mujer;Madrid;3
+K1539;Gen Z;Mujer;Madrid;3
+K1540;Boomers;Hombre;Cádiz;2
+K1541;Gen X;Hombre;Málaga;4+
+K1542;Millennials;Mujer;Navarra;3
+K1543;Millennials;Mujer;Bizkaia;1
+K1544;Gen Z;Mujer;Sevilla;1
+K1545;Millennials;Mujer;Barcelona;2
+K1546;Gen Z;Hombre;Granada;3
+K1547;Gen X;Hombre;Asturias;2
+K1548;Millennials;Mujer;Murcia;1
+K1549;Millennials;Hombre;Zaragoza;1
+K1550;Millennials;Mujer;Barcelona;4+
+K1551;Gen X;Hombre;Madrid;2
+K1552;Gen X;Hombre;A Coruña;2
+K1553;Millennials;Hombre;A Coruña;4+
+K1554;Millennials;Mujer;Barcelona;1
+K1555;Gen X;Mujer;Navarra;4+
+K1556;Gen Z;Mujer;Barcelona;1
+K1557;Millennials;Hombre;Madrid;2
+K1558;Gen X;Mujer;Valladolid;1
+K1559;Millennials;Mujer;Madrid;2
+K1560;Millennials;Mujer;Madrid;3
+K1561;Gen Z;Mujer;Sevilla;2
+K1562;Millennials;Mujer;Sevilla;4+
+K1563;Millennials;Mujer;Málaga;1
+K1564;Gen Z;Hombre;Valencia;4+
+K1565;Millennials;Mujer;Barcelona;2
+K1566;Millennials;Mujer;Madrid;1
+K1567;Millennials;Hombre;Valencia;2
+K1568;Millennials;Mujer;A Coruña;1
+K1569;Gen Z;Hombre;Valencia;1
+K1570;Gen Z;Mujer;Madrid;1
+K1571;Millennials;Hombre;Zaragoza;2
+K1572;Millennials;Mujer;Alicante;1
+K1573;Gen X;Mujer;Zaragoza;1
+K1574;Boomers;Mujer;Barcelona;1
+K1575;Gen X;Mujer;Málaga;2
+K1576;Millennials;Mujer;Bizkaia;1
+K1577;Millennials;Mujer;Málaga;1
+K1578;Gen Z;Mujer;Madrid;4+
+K1579;Millennials;Hombre;Valencia;3
+K1580;Gen X;Hombre;Granada;1
+K1581;Millennials;Hombre;Alicante;3
+K1582;Gen X;Hombre;Sevilla;2
+K1583;Gen Z;Mujer;Granada;2
+K1584;Gen Z;Mujer;Barcelona;2
+K1585;Millennials;Mujer;A Coruña;4+
+K1586;Gen X;Hombre;Barcelona;1
+K1587;Gen X;Mujer;Madrid;2
+K1588;Millennials;Mujer;Valencia;1
+K1589;Millennials;Mujer;Valladolid;1
+K1590;Millennials;Mujer;Alicante;2
+K1591;Millennials;Mujer;Madrid;2
+K1592;Gen Z;Hombre;Valencia;2
+K1593;Millennials;Mujer;Barcelona;2
+K1594;Millennials;Mujer;Navarra;3
+K1595;Gen Z;Mujer;Baleares;2
+K1596;Gen Z;Mujer;Madrid;3
+K1597;Boomers;Mujer;Alicante;4+
+K1598;Millennials;Hombre;Zaragoza;1
+K1599;Gen Z;Mujer;Baleares;2
+K1600;Gen Z;Mujer;A Coruña;3
+K1601;Millennials;Mujer;Barcelona;3
+K1602;Gen X;Mujer;Granada;2
+K1603;Millennials;Mujer;Sevilla;1
+K1604;Millennials;Mujer;Asturias;3
+K1605;Millennials;Mujer;Madrid;4+
+K1606;Gen Z;Mujer;Zaragoza;3
+K1607;Millennials;Mujer;Alicante;3
+K1608;Millennials;Hombre;Madrid;2
+K1609;Gen Z;Mujer;Málaga;2
+K1610;Millennials;Hombre;Madrid;2
+K1611;Millennials;Hombre;Asturias;3
+K1612;Millennials;Mujer;Sevilla;1
+K1613;Gen X;Mujer;Navarra;4+
+K1614;Gen X;Mujer;Madrid;4+
+K1615;Gen Z;Mujer;Sevilla;2
+K1616;Millennials;Mujer;Madrid;3
+K1617;Gen Z;Mujer;Barcelona;3
+K1618;Gen X;Mujer;Madrid;1
+K1619;Gen X;Hombre;Alicante;2
+K1620;Gen X;Hombre;Madrid;3
+K1621;Millennials;Mujer;Madrid;2
+K1622;Millennials;Mujer;A Coruña;1
+K1623;Gen Z;Mujer;Alicante;1
+K1624;Gen Z;Hombre;Zaragoza;2
+K1625;Boomers;Mujer;Valencia;1
+K1626;Gen Z;Hombre;Madrid;2
+K1627;Millennials;Mujer;Bizkaia;1
+K1628;Millennials;Mujer;Zaragoza;2
+K1629;Boomers;Hombre;Valencia;3
+K1630;Boomers;Mujer;Barcelona;2
+K1631;Millennials;Mujer;Málaga;2
+K1632;Gen X;Hombre;Valencia;1
+K1633;Gen Z;Mujer;Asturias;2
+K1634;Millennials;Hombre;Alicante;3
+K1635;Millennials;Mujer;Valencia;3
+K1636;Millennials;Mujer;Madrid;1
+K1637;Millennials;Hombre;Barcelona;1
+K1638;Boomers;Mujer;Barcelona;4+
+K1639;Millennials;Hombre;Valladolid;2
+K1640;Gen X;Mujer;Cádiz;2
+K1641;Boomers;Hombre;Madrid;3
+K1642;Gen Z;Mujer;Barcelona;3
+K1643;Millennials;Mujer;Valencia;1
+K1644;Gen Z;Hombre;A Coruña;4+
+K1645;Millennials;Mujer;Madrid;3
+K1646;Gen Z;Mujer;A Coruña;4+
+K1647;Gen X;Mujer;Barcelona;1
+K1648;Gen Z;Mujer;Madrid;2
+K1649;Millennials;Mujer;Navarra;3
+K1650;Millennials;Mujer;Málaga;3
+K1651;Gen Z;Mujer;Asturias;3
+K1652;Gen Z;Mujer;Málaga;4+
+K1653;Gen Z;Hombre;Asturias;2
+K1654;Millennials;Mujer;Bizkaia;3
+K1655;Millennials;Mujer;Granada;1
+K1656;Gen Z;Hombre;Baleares;2
+K1657;Millennials;Hombre;Las Palmas;3
+K1658;Gen X;Mujer;Barcelona;3
+K1659;Gen X;Mujer;Madrid;3
+K1660;Boomers;Mujer;Barcelona;1
+K1661;Millennials;Hombre;A Coruña;1
+K1662;Millennials;Mujer;Cádiz;1
+K1663;Boomers;Mujer;Alicante;1
+K1664;Gen Z;Mujer;Madrid;2
+K1665;Millennials;Hombre;Madrid;3
+K1666;Gen Z;Mujer;Las Palmas;3
+K1667;Millennials;Mujer;A Coruña;2
+K1668;Millennials;Mujer;Valencia;4+
+K1669;Millennials;Mujer;Málaga;2
+K1670;Millennials;Mujer;Barcelona;4+
+K1671;Millennials;Mujer;Sevilla;2
+K1672;Millennials;Hombre;Barcelona;2
+K1673;Millennials;Hombre;A Coruña;3
+K1674;Millennials;Mujer;Sevilla;2
+K1675;Gen Z;Hombre;Murcia;4+
+K1676;Millennials;Mujer;Barcelona;3
+K1677;Millennials;Mujer;Madrid;1
+K1678;Millennials;Mujer;Madrid;2
+K1679;Gen X;Mujer;Valencia;4+
+K1680;Millennials;Mujer;Asturias;3
+K1681;Gen Z;Hombre;Madrid;3
+K1682;Gen Z;Hombre;Valencia;1
+K1683;Millennials;Hombre;Asturias;2
+K1684;Millennials;Mujer;Málaga;2
+K1685;Gen X;Mujer;Cádiz;1
+K1686;Millennials;Hombre;Baleares;3
+K1687;Millennials;Mujer;Madrid;2
+K1688;Gen Z;Mujer;Bizkaia;2
+K1689;Gen Z;Hombre;Valencia;3
+K1690;Gen X;Mujer;Barcelona;2
+K1691;Gen Z;Mujer;Valencia;3
+K1692;Millennials;Mujer;Alicante;1
+K1693;Gen Z;Mujer;Baleares;1
+K1694;Boomers;Mujer;Murcia;3
+K1695;Millennials;Hombre;Valencia;1
+K1696;Gen Z;Mujer;Madrid;3
+K1697;Millennials;Mujer;Alicante;1
+K1698;Gen Z;Hombre;Zaragoza;4+
+K1699;Millennials;Hombre;Sevilla;2
+K1700;Millennials;Mujer;Madrid;1
+K1701;Gen X;Hombre;Madrid;1
+K1702;Millennials;Mujer;Murcia;3
+K1703;Gen Z;Hombre;Barcelona;4+
+K1704;Gen Z;Mujer;Zaragoza;1
+K1705;Millennials;Hombre;Madrid;2
+K1706;Millennials;Mujer;Zaragoza;2
+K1707;Millennials;Mujer;Madrid;2
+K1708;Millennials;Mujer;Málaga;2
+K1709;Millennials;Mujer;Barcelona;2
+K1710;Gen X;Mujer;Barcelona;3
+K1711;Gen Z;Mujer;Madrid;3
+K1712;Gen Z;Mujer;Bizkaia;4+
+K1713;Millennials;Mujer;A Coruña;1
+K1714;Gen Z;Mujer;A Coruña;1
+K1715;Gen Z;Hombre;Valencia;2
+K1716;Boomers;Hombre;Valladolid;3
+K1717;Gen Z;Mujer;Sevilla;2
+K1718;Millennials;Mujer;Valencia;2
+K1719;Millennials;Hombre;Murcia;2
+K1720;Millennials;Mujer;Baleares;2
+K1721;Millennials;Hombre;Barcelona;4+
+K1722;Millennials;Mujer;Málaga;1
+K1723;Boomers;Mujer;Bizkaia;3
+K1724;Gen Z;Mujer;Zaragoza;1
+K1725;Gen Z;Mujer;Granada;2
+K1726;Gen Z;Mujer;Madrid;3
+K1727;Millennials;Hombre;Barcelona;3
+K1728;Millennials;Hombre;Valencia;1
+K1729;Gen Z;Mujer;Madrid;2
+K1730;Millennials;Hombre;Madrid;2
+K1731;Gen Z;Hombre;Cádiz;1
+K1732;Millennials;Mujer;Málaga;2
+K1733;Millennials;Hombre;Valencia;3
+K1734;Millennials;Mujer;Madrid;2
+K1735;Gen Z;Hombre;Murcia;3
+K1736;Gen X;Mujer;Madrid;2
+K1737;Gen Z;Mujer;A Coruña;2
+K1738;Gen Z;Mujer;Alicante;3
+K1739;Gen Z;Mujer;Alicante;4+
+K1740;Gen Z;Mujer;Cádiz;2
+K1741;Millennials;Mujer;Madrid;3
+K1742;Gen Z;Mujer;Valencia;3
+K1743;Millennials;Mujer;Madrid;1
+K1744;Gen X;Hombre;Barcelona;4+
+K1745;Millennials;Mujer;Madrid;2
+K1746;Millennials;Hombre;Baleares;1
+K1747;Millennials;Mujer;Madrid;1
+K1748;Millennials;Mujer;Madrid;1
+K1749;Gen Z;Mujer;Cádiz;1
+K1750;Millennials;Mujer;Barcelona;1
+K1751;Millennials;Mujer;Barcelona;2
+K1752;Gen Z;Mujer;Málaga;1
+K1753;Gen Z;Mujer;Barcelona;1
+K1754;Millennials;Mujer;Madrid;1
+K1755;Gen Z;Mujer;Málaga;3
+K1756;Gen Z;Mujer;Madrid;1
+K1757;Gen X;Hombre;Madrid;3
+K1758;Gen Z;Mujer;Barcelona;2
+K1759;Millennials;Mujer;Barcelona;2
+K1760;Boomers;Hombre;Barcelona;4+
+K1761;Gen Z;Hombre;Valencia;1
+K1762;Gen Z;Mujer;Madrid;1
+K1763;Gen X;Mujer;Madrid;2
+K1764;Gen Z;Mujer;Madrid;4+
+K1765;Gen Z;Hombre;Madrid;1
+K1766;Gen X;Mujer;Alicante;1
+K1767;Millennials;Mujer;Madrid;1
+K1768;Gen Z;Mujer;Madrid;2
+K1769;Gen Z;Hombre;Madrid;4+
+K1770;Gen Z;Mujer;Barcelona;2
+K1771;Gen X;Mujer;Bizkaia;2
+K1772;Gen Z;Mujer;A Coruña;1
+K1773;Millennials;Mujer;Barcelona;2
+K1774;Millennials;Mujer;Valencia;2
+K1775;Gen Z;Mujer;Murcia;2
+K1776;Millennials;Hombre;Cádiz;1
+K1777;Millennials;Mujer;Madrid;3
+K1778;Boomers;Hombre;Navarra;1
+K1779;Gen X;Mujer;Barcelona;1
+K1780;Millennials;Hombre;Navarra;1
+K1781;Gen X;Mujer;Baleares;4+
+K1782;Millennials;Hombre;Barcelona;3
+K1783;Gen Z;Mujer;Madrid;2
+K1784;Gen Z;Mujer;Navarra;1
+K1785;Gen Z;Mujer;Granada;2
+K1786;Gen Z;Hombre;Las Palmas;2
+K1787;Millennials;Mujer;Valencia;4+
+K1788;Gen Z;Mujer;Madrid;3
+K1789;Boomers;Mujer;Alicante;2
+K1790;Gen Z;Hombre;Madrid;4+
+K1791;Gen X;Mujer;Sevilla;2
+K1792;Gen Z;Mujer;Valencia;1
+K1793;Millennials;Hombre;Alicante;4+
+K1794;Millennials;Hombre;Zaragoza;2
+K1795;Millennials;Mujer;Málaga;2
+K1796;Millennials;Mujer;Granada;3
+K1797;Gen Z;Hombre;Madrid;1
+K1798;Millennials;Hombre;Málaga;1
+K1799;Millennials;Hombre;Murcia;3
+K1800;Boomers;Mujer;Asturias;1
